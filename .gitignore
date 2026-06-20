@@ -1,0 +1,35 @@
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore static and dynamic libraries
+*.a
+*.lib
+*.dll
+*.so
+
+# Ignore compiled binaries
+*.bin
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore CMake build folders
+build/
+cmake-build-*/
+
+# Ignore Code::Blocks files (optional)
+bin/
+obj/
+
+# Ignore logs
+*.log
